@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MPermissionDemo</string>
+    <string name="show_single_permission">Show Single Permission</string>
+    <string name="show_mul_permission">Multiple Permissions</string>
+    <string name="text_permission_granted">Permission is granted</string>
+    <string name="text_permission_denied">Permission Denied</string>
 </resources>
